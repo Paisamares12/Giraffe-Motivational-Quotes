@@ -1,0 +1,41 @@
+html{
+    background-color:#FFFAEC;
+}
+body{
+    margin:0;
+}
+
+h1{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    color: #FFB22C;
+    background-color: #854836;
+    margin: 0;
+    text-align: center;
+    padding: 16px;
+}
+
+h2{
+    text-transform: uppercase;
+    font-family: Libre Baskerville, serif;
+}
+
+div{
+    width: 400px;
+    height: auto;
+    margin: 50px auto;
+    background-color: #854836;
+    box-shadow: 5px 8px 20px 0 rgba(0,0,0,0.5);
+    padding-bottom: 10px;
+}
+
+.text{
+    color: #F5ECD5;
+    text-align: center;
+    padding: 10px;
+}
+
+.image{
+    width: 100%;
+    height: 400px;
+}
